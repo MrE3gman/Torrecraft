@@ -11,9 +11,10 @@ REPO_NAME = "Torrecraft"
 BRANCH = "main"
 
 # Rutas internas del repo
-MODS_PATH = "Mods/Client/mods"
-CONFIGS_ZIP_PATH = "Configs/Client/client-configs.zip"
+MODS_PATH = "Mods/Client/mods"               # Carpeta donde están los .jar
+CONFIGS_ZIP_PATH = "Configs/Client/client-configs.zip"  # ZIP de configs
 
+# Configs adicionales
 CONFIGS_ENTRY_NAME = "Client Configs"
 CONFIGS_TARGET_DIR = "config"
 
@@ -29,12 +30,12 @@ CONFIGS_TARGET_DIR = "config"
 if len(sys.argv) >= 2:
     MODS_VERSION = sys.argv[1]
 else:
-    MODS_VERSION = "1.0.0"
+    MODS_VERSION = "1.0.0"  # valor por defecto
 
 if len(sys.argv) >= 3:
     CONFIGS_VERSION = sys.argv[2]
 else:
-    CONFIGS_VERSION = "1.0.0"
+    CONFIGS_VERSION = "1.0.0"  # valor por defecto
 
 print(f"Versión global de mods: {MODS_VERSION}")
 print(f"Versión del paquete de configs: {CONFIGS_VERSION}")
@@ -84,24 +85,13 @@ if os.path.exists(CONFIGS_ZIP_PATH):
 else:
     print(f"AVISO: No se encontró el ZIP de configs en {CONFIGS_ZIP_PATH}")
 
-# --- 3) Bloque modify para eliminar config/fml.toml ---
-modify_entries = [
-    {
-        "type": "remove",
-        "pattern": "^fml\\.toml$",
-        "path": "config"
-    }
-]
-
-# --- 4) Crear estructura final del JSON ---
+# --- 3) Generar sync.json ---
 sync_json = {
     "sync_version": 3,
-    "modify": modify_entries,
     "sync": sync_entries
 }
 
-# --- 5) Escribir sync.json ---
 with open("sync.json", "w", encoding="utf-8") as f:
     json.dump(sync_json, f, indent=2, ensure_ascii=False)
 
-print(f"sync.json generado con {len(sync_entries)} entradas y bloque 'modify'.")
+print(f"sync.json generado con {len(sync_entries)} entradas.")

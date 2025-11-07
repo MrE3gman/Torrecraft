@@ -1,0 +1,371 @@
+{
+  "version": 1,
+  "keybinds": {
+    "key.jei.previousPage": {
+      "key": "key.keyboard.unknown"
+    },
+    "gui.xaero_minimap_settings": {
+      "key": "key.keyboard.y"
+    },
+    "gui.xaero_zoom_in": {
+      "key": "key.keyboard.unknown"
+    },
+    "key.ok_zoomer.reset_zoom": {
+      "key": "key.keyboard.unknown"
+    },
+    "key.jei.showUses": {
+      "key": "key.keyboard.u"
+    },
+    "key.traderefresh.refresh": {
+      "key": "key.keyboard.r"
+    },
+    "key.jei.cheatItemStack2": {
+      "key": "key.mouse.middle"
+    },
+    "key.configured.open_mod_list": {
+      "key": "key.keyboard.unknown"
+    },
+    "key.togglePerspective": {
+      "key": "key.keyboard.f5"
+    },
+    "key.jei.nextRecipePage": {
+      "key": "key.keyboard.page.down"
+    },
+    "gui.xaero_reverse_entity_radar": {
+      "key": "key.keyboard.unknown"
+    },
+    "key.left": {
+      "key": "key.keyboard.a"
+    },
+    "key.jei.closeRecipeGui": {
+      "key": "key.keyboard.escape"
+    },
+    "key.attack": {
+      "key": "key.mouse.left"
+    },
+    "key.use": {
+      "key": "key.mouse.right"
+    },
+    "key.jade.config": {
+      "key": "key.keyboard.keypad.0"
+    },
+    "key.loadToolbarActivator": {
+      "key": "key.keyboard.unknown"
+    },
+    "key.forward": {
+      "key": "key.keyboard.w"
+    },
+    "key.back": {
+      "key": "key.keyboard.s"
+    },
+    "key.jei.toggleOverlay": {
+      "key": "key.keyboard.o"
+    },
+    "key.inventory": {
+      "key": "key.keyboard.e"
+    },
+    "key.jei.clearSearchBar": {
+      "key": "key.mouse.right"
+    },
+    "key.drop": {
+      "key": "key.keyboard.q"
+    },
+    "keybind.sophisticatedbackpacks.toggle_upgrade_5": {
+      "key": "key.keyboard.unknown"
+    },
+    "keybind.sophisticatedbackpacks.toggle_upgrade_4": {
+      "key": "key.keyboard.unknown"
+    },
+    "keybind.sophisticatedbackpacks.toggle_upgrade_3": {
+      "key": "key.keyboard.unknown"
+    },
+    "keybind.sophisticatedbackpacks.inventory_interaction": {
+      "key": "key.keyboard.x"
+    },
+    "key.jei.showUses2": {
+      "key": "key.mouse.right"
+    },
+    "key.jei.showRecipe": {
+      "key": "key.keyboard.r"
+    },
+    "gui.xaero_display_all_sets": {
+      "key": "key.keyboard.unknown"
+    },
+    "gui.xaero_waypoints_key": {
+      "key": "key.keyboard.j"
+    },
+    "key.jei.cheatOneItem2": {
+      "key": "key.mouse.right"
+    },
+    "key.jei.showRecipe2": {
+      "key": "key.mouse.left"
+    },
+    "keybind.sophisticatedbackpacks.toggle_upgrade_2": {
+      "key": "key.keyboard.unknown"
+    },
+    "keybind.sophisticatedbackpacks.toggle_upgrade_1": {
+      "key": "key.keyboard.unknown"
+    },
+    "gui.xaero_toggle_entity_radar": {
+      "key": "key.keyboard.unknown"
+    },
+    "key.jei.bookmark": {
+      "key": "key.keyboard.a"
+    },
+    "gui.xaero_toggle_pac_chunk_claims": {
+      "key": "key.keyboard.unknown"
+    },
+    "keybind.sophisticatedbackpacks.open_backpack": {
+      "key": "key.keyboard.b"
+    },
+    "gui.xaero_map_zoom_in": {
+      "key": "key.keyboard.backspace"
+    },
+    "key.securitycraft.cameraEmitRedstone": {
+      "key": "key.keyboard.r"
+    },
+    "gui.xaero_switch_waypoint_set": {
+      "key": "key.keyboard.unknown"
+    },
+    "key.advancements": {
+      "key": "key.keyboard.l"
+    },
+    "key.curios.open.desc": {
+      "key": "key.keyboard.g"
+    },
+    "key.corpse.death_history": {
+      "key": "key.keyboard.semicolon"
+    },
+    "key.ok_zoomer.zoom": {
+      "key": "key.keyboard.c"
+    },
+    "key.swapOffhand": {
+      "key": "key.keyboard.f"
+    },
+    "key.saveToolbarActivator": {
+      "key": "key.keyboard.unknown"
+    },
+    "key.jump": {
+      "key": "key.keyboard.space"
+    },
+    "key.playerlist": {
+      "key": "key.keyboard.tab"
+    },
+    "gui.xaero_toggle_manual_cave_mode": {
+      "key": "key.keyboard.unknown"
+    },
+    "gui.xaero_toggle_tracked_players_on_map": {
+      "key": "key.keyboard.unknown"
+    },
+    "key.jade.narrate": {
+      "key": "key.keyboard.keypad.5"
+    },
+    "key.jei.nextCategory": {
+      "key": "key.keyboard.page.down"
+    },
+    "gui.xaero_zoom_out": {
+      "key": "key.keyboard.unknown"
+    },
+    "gui.xaero_instant_waypoint": {
+      "key": "key.keyboard.keypad.add"
+    },
+    "key.sneak": {
+      "key": "key.keyboard.left.shift"
+    },
+    "key.sprint": {
+      "key": "key.keyboard.left.control"
+    },
+    "key.securitycraft.cameraZoomOut": {
+      "key": "key.keyboard.minus"
+    },
+    "gui.xaero_map_zoom_out": {
+      "key": "key.keyboard.unknown"
+    },
+    "gui.xaero_toggle_waypoints": {
+      "key": "key.keyboard.unknown"
+    },
+    "key.ok_zoomer.decrease_zoom": {
+      "key": "key.keyboard.unknown"
+    },
+    "key.jei.cheatOneItem": {
+      "key": "key.mouse.left"
+    },
+    "key.jei.previousRecipePage": {
+      "key": "key.keyboard.page.up"
+    },
+    "key.jade.show_recipes": {
+      "key": "key.keyboard.keypad.3"
+    },
+    "gui.xaero_new_waypoint": {
+      "key": "key.keyboard.h"
+    },
+    "gui.xaero_toggle_light_overlay": {
+      "key": "key.keyboard.unknown"
+    },
+    "key.chat": {
+      "key": "key.keyboard.t"
+    },
+    "gui.xaero_toggle_map_waypoints": {
+      "key": "key.keyboard.unknown"
+    },
+    "gui.xaero_toggle_map": {
+      "key": "key.keyboard.unknown"
+    },
+    "key.jei.previousSearch": {
+      "key": "key.keyboard.up"
+    },
+    "key.fullscreen": {
+      "key": "key.keyboard.f11"
+    },
+    "key.smoothCamera": {
+      "key": "key.keyboard.unknown"
+    },
+    "key.ok_zoomer.increase_zoom": {
+      "key": "key.keyboard.unknown"
+    },
+    "key.jei.nextPage": {
+      "key": "key.keyboard.unknown"
+    },
+    "key.jade.show_overlay": {
+      "key": "key.keyboard.keypad.1"
+    },
+    "key.jei.toggleEditMode": {
+      "key": "key.keyboard.unknown"
+    },
+    "key.securitycraft.cameraActivateNightVision": {
+      "key": "key.keyboard.n"
+    },
+    "key.command": {
+      "key": "key.keyboard.unknown"
+    },
+    "key.jei.recipeBack": {
+      "key": "key.keyboard.backspace"
+    },
+    "key.jei.previousCategory": {
+      "key": "key.keyboard.page.up"
+    },
+    "key.jei.toggleCheatModeConfigButton": {
+      "key": "key.mouse.left"
+    },
+    "key.jei.cheatItemStack": {
+      "key": "key.mouse.left"
+    },
+    "key.jei.maxTransferRecipeBookmark": {
+      "key": "key.mouse.left"
+    },
+    "keybind.sophisticatedbackpacks.tool_swap": {
+      "key": "key.keyboard.unknown"
+    },
+    "key.jade.show_details": {
+      "key": "key.keyboard.left.shift"
+    },
+    "key.hotbar.8": {
+      "key": "key.keyboard.8"
+    },
+    "key.hotbar.7": {
+      "key": "key.keyboard.7"
+    },
+    "key.hotbar.6": {
+      "key": "key.keyboard.6"
+    },
+    "keybind.sophisticatedbackpacks.sort": {
+      "key": "key.mouse.middle"
+    },
+    "key.hotbar.5": {
+      "key": "key.keyboard.5"
+    },
+    "gui.xaero_toggle_tracked_players_in_world": {
+      "key": "key.keyboard.unknown"
+    },
+    "key.hotbar.4": {
+      "key": "key.keyboard.4"
+    },
+    "key.jei.toggleWildcardHideIngredient": {
+      "key": "key.mouse.right"
+    },
+    "key.hotbar.3": {
+      "key": "key.keyboard.3"
+    },
+    "key.hotbar.2": {
+      "key": "key.keyboard.2"
+    },
+    "key.hotbar.1": {
+      "key": "key.keyboard.1"
+    },
+    "key.spectatorOutlines": {
+      "key": "key.keyboard.unknown"
+    },
+    "gui.xaero_quick_confirm": {
+      "key": "key.keyboard.right.shift"
+    },
+    "key.jei.focusSearch": {
+      "key": "key.keyboard.f"
+    },
+    "key.jei.toggleHideIngredient": {
+      "key": "key.mouse.left"
+    },
+    "key.securitycraft.setDefaultViewingDirection": {
+      "key": "key.keyboard.i"
+    },
+    "key.securitycraft.cameraZoomIn": {
+      "key": "key.keyboard.equal"
+    },
+    "key.jei.transferRecipeBookmark": {
+      "key": "key.mouse.left"
+    },
+    "gui.xaero_toggle_slime": {
+      "key": "key.keyboard.unknown"
+    },
+    "gui.xaero_toggle_dimension": {
+      "key": "key.keyboard.unknown"
+    },
+    "key.pickItem": {
+      "key": "key.mouse.middle"
+    },
+    "key.socialInteractions": {
+      "key": "key.keyboard.p"
+    },
+    "gui.xaero_enlarge_map": {
+      "key": "key.keyboard.z"
+    },
+    "key.jade.toggle_liquid": {
+      "key": "key.keyboard.keypad.2"
+    },
+    "gui.xaero_toggle_grid": {
+      "key": "key.keyboard.unknown"
+    },
+    "key.jei.nextSearch": {
+      "key": "key.keyboard.down"
+    },
+    "key.jei.copy.recipe.id": {
+      "key": "key.keyboard.unknown"
+    },
+    "gui.xaero_open_map": {
+      "key": "key.keyboard.m"
+    },
+    "key.jei.toggleCheatMode": {
+      "key": "key.keyboard.unknown"
+    },
+    "key.hotbar.9": {
+      "key": "key.keyboard.9"
+    },
+    "key.jade.show_uses": {
+      "key": "key.keyboard.keypad.4"
+    },
+    "gui.xaero_open_settings": {
+      "key": "key.keyboard.slash"
+    },
+    "key.right": {
+      "key": "key.keyboard.d"
+    },
+    "key.screenshot": {
+      "key": "key.keyboard.f2"
+    },
+    "gui.xaero_alternative_list_players": {
+      "key": "key.keyboard.unknown"
+    },
+    "key.jei.toggleBookmarkOverlay": {
+      "key": "key.keyboard.unknown"
+    }
+  }
+}

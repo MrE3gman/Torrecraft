@@ -40,6 +40,9 @@
     "key.jei.closeRecipeGui": {
       "key": "key.keyboard.escape"
     },
+    "key.clientsort.op.sort": {
+      "key": "key.mouse.middle"
+    },
     "key.attack": {
       "key": "key.mouse.left"
     },
@@ -51,6 +54,9 @@
     },
     "key.loadToolbarActivator": {
       "key": "key.keyboard.unknown"
+    },
+    "keybind.sophisticatedcore.deposit_item": {
+      "key": "key.keyboard.apostrophe"
     },
     "key.forward": {
       "key": "key.keyboard.w"
@@ -100,6 +106,12 @@
     "key.jei.showRecipe2": {
       "key": "key.mouse.left"
     },
+    "key.dynamic_fps.toggle_disabled": {
+      "key": "key.keyboard.unknown"
+    },
+    "keybind.sophisticatedcore.sort": {
+      "key": "key.mouse.middle"
+    },
     "keybind.sophisticatedbackpacks.toggle_upgrade_2": {
       "key": "key.keyboard.unknown"
     },
@@ -133,8 +145,14 @@
     "key.curios.open.desc": {
       "key": "key.keyboard.g"
     },
+    "key.clientsort.op.matchTransfer": {
+      "key": "key.keyboard.unknown"
+    },
     "key.corpse.death_history": {
       "key": "key.keyboard.semicolon"
+    },
+    "key.clientsort.cancelAuto": {
+      "key": "key.keyboard.unknown"
     },
     "key.ok_zoomer.zoom": {
       "key": "key.keyboard.c"
@@ -148,6 +166,12 @@
     "key.jump": {
       "key": "key.keyboard.space"
     },
+    "key.clientsort.op.stackFill": {
+      "key": "key.keyboard.unknown"
+    },
+    "key.modernfix.config": {
+      "key": "key.keyboard.unknown"
+    },
     "key.playerlist": {
       "key": "key.keyboard.tab"
     },
@@ -156,6 +180,9 @@
     },
     "gui.xaero_toggle_tracked_players_on_map": {
       "key": "key.keyboard.unknown"
+    },
+    "keybind.sophisticatedcore.restock_item": {
+      "key": "key.keyboard.backslash"
     },
     "key.jade.narrate": {
       "key": "key.keyboard.keypad.5"
@@ -186,6 +213,9 @@
     },
     "key.ok_zoomer.decrease_zoom": {
       "key": "key.keyboard.unknown"
+    },
+    "keybind.sophisticatedcore.item_highlight": {
+      "key": "key.keyboard.semicolon"
     },
     "key.jei.cheatOneItem": {
       "key": "key.mouse.left"
@@ -223,6 +253,12 @@
     "key.ok_zoomer.increase_zoom": {
       "key": "key.keyboard.unknown"
     },
+    "key.dynamic_fps.toggle_forced": {
+      "key": "key.keyboard.unknown"
+    },
+    "chunkloaders.keys.open_screen": {
+      "key": "key.keyboard.v"
+    },
     "key.jei.nextPage": {
       "key": "key.keyboard.unknown"
     },
@@ -243,6 +279,9 @@
     },
     "key.jei.previousCategory": {
       "key": "key.keyboard.page.up"
+    },
+    "key.clientsort.edit": {
+      "key": "key.keyboard.unknown"
     },
     "key.jei.toggleCheatModeConfigButton": {
       "key": "key.mouse.left"
@@ -267,9 +306,6 @@
     },
     "key.hotbar.6": {
       "key": "key.keyboard.6"
-    },
-    "keybind.sophisticatedbackpacks.sort": {
-      "key": "key.mouse.middle"
     },
     "key.hotbar.5": {
       "key": "key.keyboard.5"
@@ -348,6 +384,9 @@
     },
     "key.hotbar.9": {
       "key": "key.keyboard.9"
+    },
+    "key.clientsort.op.transfer": {
+      "key": "key.keyboard.unknown"
     },
     "key.jade.show_uses": {
       "key": "key.keyboard.keypad.4"

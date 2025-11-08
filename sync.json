@@ -1,5 +1,12 @@
 {
   "sync_version": 3,
+  "modify": [
+    {
+      "type": "remove",
+      "pattern": "^config/savemykeybinds/Default_Torrecraft.preset\\.toml$",
+      "path": "."
+    }
+  ],
   "sync": [
     {
       "url": "https://raw.githubusercontent.com/MrE3gman/Torrecraft/main/Mods/Client/mods/1.21.1_SecurityCraft_v1.10.1.jar",

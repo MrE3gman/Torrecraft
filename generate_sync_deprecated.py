@@ -84,34 +84,23 @@ if os.path.exists(CONFIGS_ZIP_PATH):
 else:
     print(f"AVISO: No se encontró el ZIP de configs en {CONFIGS_ZIP_PATH}")
 
-# --- 3) Bloque modify para eliminar config/fml.toml ---
+# --- 3) Bloque modify para eliminar savemykeybinds ---
 modify_entries = [
     {
         "type": "remove",
-        "pattern": "^config/fml\\.toml$",
+        "pattern": "^config/savemykeybinds/Default_Torrecraft.preset\\.toml$",
         "path": "."
     }
 ]
 
-# --- 4) Bloque rename para cambiar el nombre de simple-custom-early-loading.json---
-rename_entries = [
-    {
-        "type": "rename",
-        "pattern": "^config/tempname\\.json$",
-        "result": "config/simple-custom-early-loading.json",
-        "path": "."
-    }
-]
-
-# --- 5) Crear estructura final del JSON ---
+# --- 4) Crear estructura final del JSON ---
 sync_json = {
     "sync_version": 3,
     "modify": modify_entries,
     "sync": sync_entries,
-    "rename": rename_entries
 }
 
-# --- 6) Escribir sync.json ---
+# --- 5) Escribir sync.json ---
 with open("sync.json", "w", encoding="utf-8") as f:
     json.dump(sync_json, f, indent=2, ensure_ascii=False)
 

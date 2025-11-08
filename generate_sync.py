@@ -14,7 +14,7 @@ BRANCH = "main"
 MODS_PATH = "Mods/Client/mods"
 CONFIGS_ZIP_PATH = "Configs/Client/client-configs.zip"
 
-CONFIGS_ENTRY_NAME = "Client Configs"
+CONFIGS_ENTRY_NAME = "Client_Configs"
 CONFIGS_TARGET_DIR = "config"
 
 # ==============================

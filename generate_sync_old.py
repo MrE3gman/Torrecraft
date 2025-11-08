@@ -15,7 +15,7 @@ MODS_PATH = "Mods/Client/mods"               # Carpeta donde están los .jar
 CONFIGS_ZIP_PATH = "Configs/Client/client-configs.zip"  # ZIP de configs
 
 # Configs adicionales
-CONFIGS_ENTRY_NAME = "Client Configs"
+CONFIGS_ENTRY_NAME = "Client_Configs"
 CONFIGS_TARGET_DIR = "config"
 
 # ==============================

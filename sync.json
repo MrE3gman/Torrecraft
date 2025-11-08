@@ -387,5 +387,13 @@
       "type": "packed",
       "directory": "config"
     }
+  ],
+  "rename": [
+    {
+      "type": "rename",
+      "pattern": "^config/tempname\\.json$",
+      "result": "config/simple-custom-early-loading.json",
+      "path": "."
+    }
   ]
 }

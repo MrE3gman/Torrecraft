@@ -93,14 +93,25 @@ modify_entries = [
     }
 ]
 
-# --- 4) Crear estructura final del JSON ---
+# --- 4) Bloque rename para cambiar el nombre de simple-custom-early-loading.json---
+rename_entries = [
+    {
+        "type": "rename",
+        "pattern": "^config/tempname\\.json$",
+        "result": "config/simple-custom-early-loading.json",
+        "path": "."
+    }
+]
+
+# --- 5) Crear estructura final del JSON ---
 sync_json = {
     "sync_version": 3,
     "modify": modify_entries,
-    "sync": sync_entries
+    "sync": sync_entries,
+    "rename": rename_entries
 }
 
-# --- 5) Escribir sync.json ---
+# --- 6) Escribir sync.json ---
 with open("sync.json", "w", encoding="utf-8") as f:
     json.dump(sync_json, f, indent=2, ensure_ascii=False)
 

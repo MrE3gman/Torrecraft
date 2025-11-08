@@ -88,8 +88,8 @@ else:
 modify_entries = [
     {
         "type": "remove",
-        "pattern": "^config/savemykeybinds/Default_Torrecraft\\.preset\\.toml$",
-        "path": "."
+        "pattern": "^Default_Torrecraft\\.preset\\.toml$",
+        "path": "./config/savemykeybinds/"
     }
 ]
 

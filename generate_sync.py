@@ -88,8 +88,8 @@ else:
 modify_entries = [
     {
         "type": "remove",
-        "pattern": "^fml\\.toml$",
-        "path": "config"
+        "pattern": "^config/fml\\.toml$",
+        "path": "."
     }
 ]
 

@@ -1,388 +1,395 @@
 {
   "sync_version": 3,
+  "modify": [
+    {
+      "type": "remove",
+      "pattern": "^config/savemykeybinds/Default_Torrecraft\\.preset\\.toml$",
+      "path": "."
+    }
+  ],
   "sync": [
     {
       "url": "https://raw.githubusercontent.com/MrE3gman/Torrecraft/main/Mods/Client/mods/1.21.1_SecurityCraft_v1.10.1.jar",
       "name": "1.21.1_SecurityCraft_v1.10.1",
-      "version": "1.1",
+      "version": "1.0.0",
       "type": "mod"
     },
     {
       "url": "https://raw.githubusercontent.com/MrE3gman/Torrecraft/main/Mods/Client/mods/baguettelib-1.21.1-NeoForge-1.1.0.jar",
       "name": "baguettelib-1.21.1-NeoForge-1.1.0",
-      "version": "1.1",
+      "version": "1.0.0",
       "type": "mod"
     },
     {
       "url": "https://raw.githubusercontent.com/MrE3gman/Torrecraft/main/Mods/Client/mods/balm-neoforge-1.21.1-21.0.54.jar",
       "name": "balm-neoforge-1.21.1-21.0.54",
-      "version": "1.1",
+      "version": "1.0.0",
       "type": "mod"
     },
     {
       "url": "https://raw.githubusercontent.com/MrE3gman/Torrecraft/main/Mods/Client/mods/bookshelf-neoforge-1.21.1-21.1.78.jar",
       "name": "bookshelf-neoforge-1.21.1-21.1.78",
-      "version": "1.1",
+      "version": "1.0.0",
       "type": "mod"
     },
     {
       "url": "https://raw.githubusercontent.com/MrE3gman/Torrecraft/main/Mods/Client/mods/caelus-neoforge-7.0.1+1.21.1.jar",
       "name": "caelus-neoforge-7.0.1+1.21.1",
-      "version": "1.1",
+      "version": "1.0.0",
       "type": "mod"
     },
     {
       "url": "https://raw.githubusercontent.com/MrE3gman/Torrecraft/main/Mods/Client/mods/catalogue-neoforge-1.21.1-1.11.1.jar",
       "name": "catalogue-neoforge-1.21.1-1.11.1",
-      "version": "1.1",
+      "version": "1.0.0",
       "type": "mod"
     },
     {
       "url": "https://raw.githubusercontent.com/MrE3gman/Torrecraft/main/Mods/Client/mods/chunkloaders-1.2.8-neoforge-mc1.21.jar",
       "name": "chunkloaders-1.2.8-neoforge-mc1.21",
-      "version": "1.1",
+      "version": "1.0.0",
       "type": "mod"
     },
     {
       "url": "https://raw.githubusercontent.com/MrE3gman/Torrecraft/main/Mods/Client/mods/clientsort-neoforge-2.1.2+1.21.1.jar",
       "name": "clientsort-neoforge-2.1.2+1.21.1",
-      "version": "1.1",
+      "version": "1.0.0",
       "type": "mod"
     },
     {
       "url": "https://raw.githubusercontent.com/MrE3gman/Torrecraft/main/Mods/Client/mods/cloth-config-15.0.140-neoforge.jar",
       "name": "cloth-config-15.0.140-neoforge",
-      "version": "1.1",
+      "version": "1.0.0",
       "type": "mod"
     },
     {
       "url": "https://raw.githubusercontent.com/MrE3gman/Torrecraft/main/Mods/Client/mods/collective-1.21.1-8.3.jar",
       "name": "collective-1.21.1-8.3",
-      "version": "1.1",
+      "version": "1.0.0",
       "type": "mod"
     },
     {
       "url": "https://raw.githubusercontent.com/MrE3gman/Torrecraft/main/Mods/Client/mods/configured-neoforge-1.21.1-2.6.0.jar",
       "name": "configured-neoforge-1.21.1-2.6.0",
-      "version": "1.1",
+      "version": "1.0.0",
       "type": "mod"
     },
     {
       "url": "https://raw.githubusercontent.com/MrE3gman/Torrecraft/main/Mods/Client/mods/connectedglass-1.1.14-neoforge-mc1.21.jar",
       "name": "connectedglass-1.1.14-neoforge-mc1.21",
-      "version": "1.1",
+      "version": "1.0.0",
       "type": "mod"
     },
     {
       "url": "https://raw.githubusercontent.com/MrE3gman/Torrecraft/main/Mods/Client/mods/connector-2.0.0-beta.11+1.21.1-full.jar",
       "name": "connector-2.0.0-beta.11+1.21.1-full",
-      "version": "1.1",
+      "version": "1.0.0",
       "type": "mod"
     },
     {
       "url": "https://raw.githubusercontent.com/MrE3gman/Torrecraft/main/Mods/Client/mods/ConnectorExtras-1.12.1+1.21.1.jar",
       "name": "ConnectorExtras-1.12.1+1.21.1",
-      "version": "1.1",
+      "version": "1.0.0",
       "type": "mod"
     },
     {
       "url": "https://raw.githubusercontent.com/MrE3gman/Torrecraft/main/Mods/Client/mods/Controlling-neoforge-1.21.1-19.0.5.jar",
       "name": "Controlling-neoforge-1.21.1-19.0.5",
-      "version": "1.1",
+      "version": "1.0.0",
       "type": "mod"
     },
     {
       "url": "https://raw.githubusercontent.com/MrE3gman/Torrecraft/main/Mods/Client/mods/corpse-neoforge-1.21.1-1.1.13.jar",
       "name": "corpse-neoforge-1.21.1-1.1.13",
-      "version": "1.1",
+      "version": "1.0.0",
       "type": "mod"
     },
     {
       "url": "https://raw.githubusercontent.com/MrE3gman/Torrecraft/main/Mods/Client/mods/corpsecurioscompat-1.21.1-NeoForge-3.1.2.jar",
       "name": "corpsecurioscompat-1.21.1-NeoForge-3.1.2",
-      "version": "1.1",
+      "version": "1.0.0",
       "type": "mod"
     },
     {
       "url": "https://raw.githubusercontent.com/MrE3gman/Torrecraft/main/Mods/Client/mods/cupboard-1.21-2.9.jar",
       "name": "cupboard-1.21-2.9",
-      "version": "1.1",
+      "version": "1.0.0",
       "type": "mod"
     },
     {
       "url": "https://raw.githubusercontent.com/MrE3gman/Torrecraft/main/Mods/Client/mods/curios-neoforge-9.5.1+1.21.1.jar",
       "name": "curios-neoforge-9.5.1+1.21.1",
-      "version": "1.1",
+      "version": "1.0.0",
       "type": "mod"
     },
     {
       "url": "https://raw.githubusercontent.com/MrE3gman/Torrecraft/main/Mods/Client/mods/dynamic-fps-3.9.5+minecraft-1.21.0-neoforge.jar",
       "name": "dynamic-fps-3.9.5+minecraft-1.21.0-neoforge",
-      "version": "1.1",
+      "version": "1.0.0",
       "type": "mod"
     },
     {
       "url": "https://raw.githubusercontent.com/MrE3gman/Torrecraft/main/Mods/Client/mods/elytraslot-neoforge-9.0.2+1.21.1.jar",
       "name": "elytraslot-neoforge-9.0.2+1.21.1",
-      "version": "1.1",
+      "version": "1.0.0",
       "type": "mod"
     },
     {
       "url": "https://raw.githubusercontent.com/MrE3gman/Torrecraft/main/Mods/Client/mods/enchdesc-neoforge-1.21.1-21.1.9.jar",
       "name": "enchdesc-neoforge-1.21.1-21.1.9",
-      "version": "1.1",
+      "version": "1.0.0",
       "type": "mod"
     },
     {
       "url": "https://raw.githubusercontent.com/MrE3gman/Torrecraft/main/Mods/Client/mods/farsight-1.21-3.8.jar",
       "name": "farsight-1.21-3.8",
-      "version": "1.1",
+      "version": "1.0.0",
       "type": "mod"
     },
     {
       "url": "https://raw.githubusercontent.com/MrE3gman/Torrecraft/main/Mods/Client/mods/ferritecore-7.0.2-neoforge.jar",
       "name": "ferritecore-7.0.2-neoforge",
-      "version": "1.1",
+      "version": "1.0.0",
       "type": "mod"
     },
     {
       "url": "https://raw.githubusercontent.com/MrE3gman/Torrecraft/main/Mods/Client/mods/forgified-fabric-api-0.115.6+2.1.1+1.21.1.jar",
       "name": "forgified-fabric-api-0.115.6+2.1.1+1.21.1",
-      "version": "1.1",
+      "version": "1.0.0",
       "type": "mod"
     },
     {
       "url": "https://raw.githubusercontent.com/MrE3gman/Torrecraft/main/Mods/Client/mods/framework-neoforge-1.21.1-0.9.6.jar",
       "name": "framework-neoforge-1.21.1-0.9.6",
-      "version": "1.1",
+      "version": "1.0.0",
       "type": "mod"
     },
     {
       "url": "https://raw.githubusercontent.com/MrE3gman/Torrecraft/main/Mods/Client/mods/ftb-jei-extras-21.1.7.jar",
       "name": "ftb-jei-extras-21.1.7",
-      "version": "1.1",
+      "version": "1.0.0",
       "type": "mod"
     },
     {
       "url": "https://raw.githubusercontent.com/MrE3gman/Torrecraft/main/Mods/Client/mods/fusion-1.2.10-neoforge-mc1.21.jar",
       "name": "fusion-1.2.10-neoforge-mc1.21",
-      "version": "1.1",
+      "version": "1.0.0",
       "type": "mod"
     },
     {
       "url": "https://raw.githubusercontent.com/MrE3gman/Torrecraft/main/Mods/Client/mods/grind-enchantments-4.0.1+neoforge-1.21.1.jar",
       "name": "grind-enchantments-4.0.1+neoforge-1.21.1",
-      "version": "1.1",
+      "version": "1.0.0",
       "type": "mod"
     },
     {
       "url": "https://raw.githubusercontent.com/MrE3gman/Torrecraft/main/Mods/Client/mods/inventorymending-1.21.1-1.2.jar",
       "name": "inventorymending-1.21.1-1.2",
-      "version": "1.1",
+      "version": "1.0.0",
       "type": "mod"
     },
     {
       "url": "https://raw.githubusercontent.com/MrE3gman/Torrecraft/main/Mods/Client/mods/Jade-1.21.1-NeoForge-15.10.3.jar",
       "name": "Jade-1.21.1-NeoForge-15.10.3",
-      "version": "1.1",
+      "version": "1.0.0",
       "type": "mod"
     },
     {
       "url": "https://raw.githubusercontent.com/MrE3gman/Torrecraft/main/Mods/Client/mods/JadeAddons-1.21.1-NeoForge-6.1.0.jar",
       "name": "JadeAddons-1.21.1-NeoForge-6.1.0",
-      "version": "1.1",
+      "version": "1.0.0",
       "type": "mod"
     },
     {
       "url": "https://raw.githubusercontent.com/MrE3gman/Torrecraft/main/Mods/Client/mods/jei-1.21.1-neoforge-19.21.2.313.jar",
       "name": "jei-1.21.1-neoforge-19.21.2.313",
-      "version": "1.1",
+      "version": "1.0.0",
       "type": "mod"
     },
     {
       "url": "https://raw.githubusercontent.com/MrE3gman/Torrecraft/main/Mods/Client/mods/justenoughbreeding-neoforge-1.21-1.21.1-1.6.2.jar",
       "name": "justenoughbreeding-neoforge-1.21-1.21.1-1.6.2",
-      "version": "1.1",
+      "version": "1.0.0",
       "type": "mod"
     },
     {
       "url": "https://raw.githubusercontent.com/MrE3gman/Torrecraft/main/Mods/Client/mods/JustEnoughProfessions-neoforge-1.21.1-4.0.4.jar",
       "name": "JustEnoughProfessions-neoforge-1.21.1-4.0.4",
-      "version": "1.1",
+      "version": "1.0.0",
       "type": "mod"
     },
     {
       "url": "https://raw.githubusercontent.com/MrE3gman/Torrecraft/main/Mods/Client/mods/JustEnoughResources-NeoForge-1.21.1-1.6.0.17.jar",
       "name": "JustEnoughResources-NeoForge-1.21.1-1.6.0.17",
-      "version": "1.1",
+      "version": "1.0.0",
       "type": "mod"
     },
     {
       "url": "https://raw.githubusercontent.com/MrE3gman/Torrecraft/main/Mods/Client/mods/kleeslabs-neoforge-1.21.1-21.1.7.jar",
       "name": "kleeslabs-neoforge-1.21.1-21.1.7",
-      "version": "1.1",
+      "version": "1.0.0",
       "type": "mod"
     },
     {
       "url": "https://raw.githubusercontent.com/MrE3gman/Torrecraft/main/Mods/Client/mods/kotlinforforge-5.10.0-all.jar",
       "name": "kotlinforforge-5.10.0-all",
-      "version": "1.1",
+      "version": "1.0.0",
       "type": "mod"
     },
     {
       "url": "https://raw.githubusercontent.com/MrE3gman/Torrecraft/main/Mods/Client/mods/kotlinforforge-5.9.0-all.jar",
       "name": "kotlinforforge-5.9.0-all",
-      "version": "1.1",
+      "version": "1.0.0",
       "type": "mod"
     },
     {
       "url": "https://raw.githubusercontent.com/MrE3gman/Torrecraft/main/Mods/Client/mods/lootr-neoforge-1.21-1.10.35.91.jar",
       "name": "lootr-neoforge-1.21-1.10.35.91",
-      "version": "1.1",
+      "version": "1.0.0",
       "type": "mod"
     },
     {
       "url": "https://raw.githubusercontent.com/MrE3gman/Torrecraft/main/Mods/Client/mods/mixintracereforged-neoforge-1.0.0-1.21.1.jar",
       "name": "mixintracereforged-neoforge-1.0.0-1.21.1",
-      "version": "1.1",
+      "version": "1.0.0",
       "type": "mod"
     },
     {
       "url": "https://raw.githubusercontent.com/MrE3gman/Torrecraft/main/Mods/Client/mods/modernfix-neoforge-5.24.3+mc1.21.1.jar",
       "name": "modernfix-neoforge-5.24.3+mc1.21.1",
-      "version": "1.1",
+      "version": "1.0.0",
       "type": "mod"
     },
     {
       "url": "https://raw.githubusercontent.com/MrE3gman/Torrecraft/main/Mods/Client/mods/mods_optimizer-neoforge-1.21.1-4.1.0.jar",
       "name": "mods_optimizer-neoforge-1.21.1-4.1.0",
-      "version": "1.1",
+      "version": "1.0.0",
       "type": "mod"
     },
     {
       "url": "https://raw.githubusercontent.com/MrE3gman/Torrecraft/main/Mods/Client/mods/ok_zoomer-neo-10.0.0-beta.10.jar",
       "name": "ok_zoomer-neo-10.0.0-beta.10",
-      "version": "1.1",
+      "version": "1.0.0",
       "type": "mod"
     },
     {
       "url": "https://raw.githubusercontent.com/MrE3gman/Torrecraft/main/Mods/Client/mods/PingHUD-4.0.jar",
       "name": "PingHUD-4.0",
-      "version": "1.1",
+      "version": "1.0.0",
       "type": "mod"
     },
     {
       "url": "https://raw.githubusercontent.com/MrE3gman/Torrecraft/main/Mods/Client/mods/prickle-neoforge-1.21.1-21.1.11.jar",
       "name": "prickle-neoforge-1.21.1-21.1.11",
-      "version": "1.1",
+      "version": "1.0.0",
       "type": "mod"
     },
     {
       "url": "https://raw.githubusercontent.com/MrE3gman/Torrecraft/main/Mods/Client/mods/rechiseled-1.1.6a-neoforge-mc1.21.jar",
       "name": "rechiseled-1.1.6a-neoforge-mc1.21",
-      "version": "1.1",
+      "version": "1.0.0",
       "type": "mod"
     },
     {
       "url": "https://raw.githubusercontent.com/MrE3gman/Torrecraft/main/Mods/Client/mods/SaveMyKeybinds-1.0.0.jar",
       "name": "SaveMyKeybinds-1.0.0",
-      "version": "1.1",
+      "version": "1.0.0",
       "type": "mod"
     },
     {
       "url": "https://raw.githubusercontent.com/MrE3gman/Torrecraft/main/Mods/Client/mods/scarecrowsterritory-1.1.11a-neoforge-mc1.21.jar",
       "name": "scarecrowsterritory-1.1.11a-neoforge-mc1.21",
-      "version": "1.1",
+      "version": "1.0.0",
       "type": "mod"
     },
     {
       "url": "https://raw.githubusercontent.com/MrE3gman/Torrecraft/main/Mods/Client/mods/Searchables-neoforge-1.21.1-1.0.2.jar",
       "name": "Searchables-neoforge-1.21.1-1.0.2",
-      "version": "1.1",
+      "version": "1.0.0",
       "type": "mod"
     },
     {
       "url": "https://raw.githubusercontent.com/MrE3gman/Torrecraft/main/Mods/Client/mods/SimpleCustomEarlyLoading-2.0-neoforge.jar",
       "name": "SimpleCustomEarlyLoading-2.0-neoforge",
-      "version": "1.1",
+      "version": "1.0.0",
       "type": "mod"
     },
     {
       "url": "https://raw.githubusercontent.com/MrE3gman/Torrecraft/main/Mods/Client/mods/sodium-neoforge-0.6.13+mc1.21.1.jar",
       "name": "sodium-neoforge-0.6.13+mc1.21.1",
-      "version": "1.1",
+      "version": "1.0.0",
       "type": "mod"
     },
     {
       "url": "https://raw.githubusercontent.com/MrE3gman/Torrecraft/main/Mods/Client/mods/sodiumdynamiclights-neoforge-1.0.10-1.21.1.jar",
       "name": "sodiumdynamiclights-neoforge-1.0.10-1.21.1",
-      "version": "1.1",
+      "version": "1.0.0",
       "type": "mod"
     },
     {
       "url": "https://raw.githubusercontent.com/MrE3gman/Torrecraft/main/Mods/Client/mods/sophisticatedbackpacks-1.21.1-3.25.14.1410.jar",
       "name": "sophisticatedbackpacks-1.21.1-3.25.14.1410",
-      "version": "1.1",
+      "version": "1.0.0",
       "type": "mod"
     },
     {
       "url": "https://raw.githubusercontent.com/MrE3gman/Torrecraft/main/Mods/Client/mods/sophisticatedcore-1.21.1-1.3.89.1239.jar",
       "name": "sophisticatedcore-1.21.1-1.3.89.1239",
-      "version": "1.1",
+      "version": "1.0.0",
       "type": "mod"
     },
     {
       "url": "https://raw.githubusercontent.com/MrE3gman/Torrecraft/main/Mods/Client/mods/sophisticatedstorage-1.21.1-1.5.15.1361.jar",
       "name": "sophisticatedstorage-1.21.1-1.5.15.1361",
-      "version": "1.1",
+      "version": "1.0.0",
       "type": "mod"
     },
     {
       "url": "https://raw.githubusercontent.com/MrE3gman/Torrecraft/main/Mods/Client/mods/spark-1.10.124-neoforge.jar",
       "name": "spark-1.10.124-neoforge",
-      "version": "1.1",
+      "version": "1.0.0",
       "type": "mod"
     },
     {
       "url": "https://raw.githubusercontent.com/MrE3gman/Torrecraft/main/Mods/Client/mods/supermartijn642configlib-1.1.8-neoforge-mc1.21.jar",
       "name": "supermartijn642configlib-1.1.8-neoforge-mc1.21",
-      "version": "1.1",
+      "version": "1.0.0",
       "type": "mod"
     },
     {
       "url": "https://raw.githubusercontent.com/MrE3gman/Torrecraft/main/Mods/Client/mods/supermartijn642corelib-1.1.18a-neoforge-mc1.21.jar",
       "name": "supermartijn642corelib-1.1.18a-neoforge-mc1.21",
-      "version": "1.1",
+      "version": "1.0.0",
       "type": "mod"
     },
     {
       "url": "https://raw.githubusercontent.com/MrE3gman/Torrecraft/main/Mods/Client/mods/traderefresh-3.0.1.jar",
       "name": "traderefresh-3.0.1",
-      "version": "1.1",
+      "version": "1.0.0",
       "type": "mod"
     },
     {
       "url": "https://raw.githubusercontent.com/MrE3gman/Torrecraft/main/Mods/Client/mods/XaerosWorldMap_1.39.12_NeoForge_1.21.jar",
       "name": "XaerosWorldMap_1.39.12_NeoForge_1.21",
-      "version": "1.1",
+      "version": "1.0.0",
       "type": "mod"
     },
     {
       "url": "https://raw.githubusercontent.com/MrE3gman/Torrecraft/main/Mods/Client/mods/Xaeros_Minimap_25.2.10_NeoForge_1.21.jar",
       "name": "Xaeros_Minimap_25.2.10_NeoForge_1.21",
-      "version": "1.1",
+      "version": "1.0.0",
       "type": "mod"
     },
     {
       "url": "https://raw.githubusercontent.com/MrE3gman/Torrecraft/main/Mods/Client/mods/yeetusexperimentus-neoforge-87.0.0.jar",
       "name": "yeetusexperimentus-neoforge-87.0.0",
-      "version": "1.1",
+      "version": "1.0.0",
       "type": "mod"
     },
     {
       "url": "https://raw.githubusercontent.com/MrE3gman/Torrecraft/main/Configs/Client/client-configs.zip",
       "name": "Client_Configs",
-      "version": "1.1",
+      "version": "1.0.0",
       "type": "packed",
       "directory": "config"
     }

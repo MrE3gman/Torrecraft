@@ -87,7 +87,7 @@ else:
 
 # --- 3) Generar sync.json ---
 sync_json = {
-    "sync_version": 3,
+    "sync_version": 4,
     "sync": sync_entries
 }
 

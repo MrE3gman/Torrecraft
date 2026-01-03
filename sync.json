@@ -1,5 +1,5 @@
 {
-  "sync_version": 3,
+  "sync_version": 4,
   "sync": [
     {
       "url": "https://raw.githubusercontent.com/MrE3gman/Torrecraft/main/Mods/Client/mods/1.21.1_SecurityCraft_v1.10.1.jar",
@@ -112,6 +112,12 @@
     {
       "url": "https://raw.githubusercontent.com/MrE3gman/Torrecraft/main/Mods/Client/mods/curios-neoforge-9.5.1+1.21.1.jar",
       "name": "curios-neoforge-9.5.1+1.21.1",
+      "version": "1.0.0",
+      "type": "mod"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/MrE3gman/Torrecraft/main/Mods/Client/mods/customfov-neoforge-9.0.0+1.21.jar",
+      "name": "customfov-neoforge-9.0.0+1.21",
       "version": "1.0.0",
       "type": "mod"
     },
@@ -256,6 +262,12 @@
     {
       "url": "https://raw.githubusercontent.com/MrE3gman/Torrecraft/main/Mods/Client/mods/mods_optimizer-neoforge-1.21.1-4.1.0.jar",
       "name": "mods_optimizer-neoforge-1.21.1-4.1.0",
+      "version": "1.0.0",
+      "type": "mod"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/MrE3gman/Torrecraft/main/Mods/Client/mods/NetherCoords v2.0.2 for 1.21.x.jar",
+      "name": "NetherCoords v2.0.2 for 1.21.x",
       "version": "1.0.0",
       "type": "mod"
     },

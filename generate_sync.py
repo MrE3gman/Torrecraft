@@ -30,7 +30,7 @@ CONFIGS_TARGET_DIR = "config"
 if len(sys.argv) >= 2:
     MODS_VERSION = sys.argv[1]
 else:
-    MODS_VERSION = "1.0.0"  # valor por defecto
+    MODS_VERSION = "1.1.0"  # valor por defecto
 
 if len(sys.argv) >= 3:
     CONFIGS_VERSION = sys.argv[2]
@@ -87,7 +87,7 @@ else:
 
 # --- 3) Generar sync.json ---
 sync_json = {
-    "sync_version": 4,
+    "sync_version": 3,
     "sync": sync_entries
 }
 
